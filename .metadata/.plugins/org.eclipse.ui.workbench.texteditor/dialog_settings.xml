@@ -7,6 +7,7 @@
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="////&#x09;&#x09;int age = 21;"/>
 			<item value="Thread.sleep(3000);"/>
 			<item value="driver.get(&quot;https://redfin.com&quot;);"/>
 		</list>

@@ -1,0 +1,20 @@
+package controlStatements;
+
+public class If_Else {
+
+	public static void main(String[] args) {
+
+		String col = "green";
+		
+		if (col.equals("red")) {
+			System.out.println("Stop");
+			
+		} else if (col.equalsIgnoreCase("yellow")) {
+			System.out.println("Slow");
+			
+		} else if (col.equals("green")) {
+			System.out.println("Go");
+
+		}
+	}
+}
